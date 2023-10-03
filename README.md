@@ -1,1 +1,2 @@
-# customerai_v2
+# CustomerAI -Streamlit
+Streamlit Integration with Snowflake
